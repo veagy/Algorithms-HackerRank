@@ -6,7 +6,7 @@
 
 |Subdomains       | Problem     | Solution     | Note  |
 |:------------- |:-------------:|:-------|-----|
-|**Warmup**|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Python 3]()||
+|**Warmup**|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Solve%20Me%20First)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
