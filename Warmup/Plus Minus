@@ -1,1 +1,58 @@
+#!/bin/python3
 
+import math
+import os
+import random
+import re
+import sys
+
+# Complete the plusMinus function below.
+def plusMinus(arr):
+    posNum = 0
+    negNum = 0
+    zeroNum = 0
+    for i in range(len(arr)):
+        if arr[i] > 0:
+            posNum += 1
+        elif arr[i] < 0:
+            negNum += 1
+        else:
+            zeroNum += 1
+    print(format(posNum/len(arr), ".6f"))
+    print(format(negNum/len(arr), ".6f"))
+    print(format(zeroNum/len(arr), ".6f"))
+    
+    
+if __name__ == '__main__':
+    n = int(input())
+
+    arr = list(map(int, input().rstrip().split()))
+
+    plusMinus(arr)
+    
+OR
+
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+# Complete the plusMinus function below.
+def plusMinus(arr):
+    posNum = sum(1 for i in range(len(arr)) if arr[i] > 0)  # code is shorter than version 1 but O(3n)
+    negNum = sum(1 for i in range(len(arr)) if arr[i] < 0)
+    zeroNum = sum(1 for i in range(len(arr)) if arr[i] == 0)
+    print(format(posNum/len(arr), ".6f"))
+    print(format(negNum/len(arr), ".6f"))
+    print(format(zeroNum/len(arr), ".6f"))
+    
+    
+if __name__ == '__main__':
+    n = int(input())
+
+    arr = list(map(int, input().rstrip().split()))
+
+    plusMinus(arr)
