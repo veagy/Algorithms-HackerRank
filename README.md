@@ -11,7 +11,7 @@
 ||[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Compare%20the%20Triplets)|sum(1 for  if  )|
 ||[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/A%20Very%20Big%20Sum)|long long int for C/C++ or long data type for Java|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Diagonal%20Difference)||
-||[]()|[Python 3]()||
+||[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Plus%20Minus)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
