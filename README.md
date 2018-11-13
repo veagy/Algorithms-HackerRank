@@ -12,8 +12,8 @@
 ||[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/A%20Very%20Big%20Sum)|long long int for C/C++ or long data type for Java|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Diagonal%20Difference)||
 ||[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Plus%20Minus)|print(format( , ".6f"))|
-||[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Staircase)||
-||[]()|[Python 3]()||
+||[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Staircase)|str.rjust(totalNumber)|
+||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Mini-Max%20Sum)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
