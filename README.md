@@ -8,8 +8,8 @@
 |:------------- |:-------------:|:-------|-----|
 |**Warmup**|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Solve%20Me%20First)||
 ||[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Simple%20Array%20Sum)||
-||[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Compare%20the%20Triplets)||
-||[]()|[Python 3]()||
+||[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Compare%20the%20Triplets)|sum(1 for  if  )|
+||[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/A%20Very%20Big%20Sum)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
