@@ -14,7 +14,7 @@
 ||[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Plus%20Minus)|print(format( , ".6f"))|
 ||[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Staircase)|str.rjust(totalNumber)|
 ||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Mini-Max%20Sum)||
-||[]()|[Python 3]()||
+||[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[Python 3](https://github.com/veagy/Algorithms-HackerRank/blob/master/Warmup/Birthday%20Cake%20Candles)||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
 ||[]()|[Python 3]()||
